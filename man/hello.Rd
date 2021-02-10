@@ -4,7 +4,7 @@
 \alias{hello}
 \title{hello}
 \usage{
-hello()
+hello(name = "world")
 }
 \arguments{
 \item{name}{Someone's name}

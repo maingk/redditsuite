@@ -19,6 +19,6 @@
 #' @examples
 #' hello(name = "Richard")
 #' @export hello
-hello <- function() {
-  print("Hello, world!")
+hello <- function(name = 'world') {
+  print(glue("HELLO, {name}!!!"))
 }

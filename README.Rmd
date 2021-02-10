@@ -41,7 +41,20 @@ knitr::opts_chunk$set(
 -  Restart R Session
 
     - ctrl + shift + F10
-    
+
+## GIT
+
+Setting up a new repository on GitHub
+```
+echo "# redditsuite" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/maingk/redditsuite.git
+git push -u origin main
+```
+
 <!-- badges: start -->
 <!-- badges: end -->
 
