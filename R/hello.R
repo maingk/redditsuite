@@ -15,7 +15,7 @@
 
 #' hello
 #' @author Richard Mills
-#' @param name Someone's name
+#' @param name Enter a name that you want to print
 #' @examples
 #' hello(name = "Richard")
 #' @export hello

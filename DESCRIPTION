@@ -3,7 +3,7 @@ Type: Package
 Title: Helps collect and stores Reddit data
 Version: 0.2.0
 Author: Richard Mills
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: Richard Mills <maingk@gmail.com>
 Description: Helps pull data from praw, the Reddit handler written in Python
     Stores data into a PostgreSQL database.
 License: What license is it under?
