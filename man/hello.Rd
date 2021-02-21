@@ -7,7 +7,7 @@
 hello(name = "world")
 }
 \arguments{
-\item{name}{Someone's name}
+\item{name}{Enter a name that you want to print}
 }
 \description{
 hello
